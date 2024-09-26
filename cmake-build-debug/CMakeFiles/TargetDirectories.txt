@@ -1,0 +1,3 @@
+C:/Users/luca_/CLionProjects/sconto in base al prezzo/cmake-build-debug/CMakeFiles/sconto_in_base_al_prezzo.dir
+C:/Users/luca_/CLionProjects/sconto in base al prezzo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luca_/CLionProjects/sconto in base al prezzo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
